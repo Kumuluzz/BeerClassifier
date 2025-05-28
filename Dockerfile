@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:2.9.1-jupyter
+FROM tensorflow/tensorflow:2.19.0-jupyter
 
 COPY requirements.txt .
 
